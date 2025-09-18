@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Python virtual environment
+venv/
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# User-specific files
+*.env
+*.venv
+.env/
+.venv/
+# VS Code settings
+.vscode/
