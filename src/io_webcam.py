@@ -1,6 +1,6 @@
 import cv2
 
-webcam = cv2.VideoCapture(0)
+webcam = cv2.VideoCapture(1)
 
 while True:
     ret, frame = webcam.read()
